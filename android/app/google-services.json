@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883857360669",
+    "project_id": "mo-zip-w34xtq",
+    "storage_bucket": "mo-zip-w34xtq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883857360669:android:c7d0b61b5479a62ecf03f4",
+        "android_client_info": {
+          "package_name": "com.mycompany.mozip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYigF8FNFHrkaJmAyTgZta2F-hRzhV59A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
